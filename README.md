@@ -16,3 +16,12 @@ Em resumo: você cria, testa e publica agentes de forma simples e rápida, sem p
 O Microsoft Copilot Studio também oferece modelos de agentes que podem ser facilmente adaptados às suas necessidades. Esses modelos permitem ajustar o comportamento do agente para diferentes casos de uso.
 
 Em resumo: você começa com um modelo, personaliza conforme seus objetivos e rapidamente tem um agente funcional para interagir com usuários. Isso acelera o processo de criação e garante flexibilidade para atender diferentes situações.
+
+## Criar e customizar tópicos
+No Copilot Studio é possível criar tópicos que organizam fluxos de conversa e personalizar cada um deles conforme os cenários desejados. Essa funcionalidade permite estruturar melhor as interações e adaptar o agente a diferentes necessidades.
+
+## Personalizar mensagens de erro
+Você pode definir mensagens de erro claras e objetivas, ajustando o tom de acordo com a experiência que deseja oferecer ao usuário. Isso garante consistência e melhora a usabilidade do agente.
+
+## Ajustar qualidade da resposta GenAI
+O Copilot Studio permite configurar o nível de profundidade e detalhamento das respostas geradas pela IA. É possível aumentar a qualidade para interações mais complexas ou reduzir para respostas mais diretas e objetivas, conforme o contexto de uso.
